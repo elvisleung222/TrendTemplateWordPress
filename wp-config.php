@@ -21,16 +21,16 @@
 // mysql://b886f3b4967d7d:b4450c79@us-cdbr-east-02.cleardb.com/heroku_2ccfa0a14a9ee69?reconnect=true
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'trend_template' );
+define( 'DB_NAME', 'heroku_2ccfa0a14a9ee69' );
 
 /** MySQL database username */
-define( 'DB_USER', 'trend_template' );
+define( 'DB_USER', 'b886f3b4967d7d' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'trend_template' );
+define( 'DB_PASSWORD', 'b4450c79' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'db4free.net' );
+define( 'DB_HOST', 'us-cdbr-east-02.cleardb.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
